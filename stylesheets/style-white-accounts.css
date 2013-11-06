@@ -1,122 +1,114 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1265
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720
+@charset "utf-8";html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,input{margin:0;padding:0;border:0;outline:0;font-size:100%}body{line-height:1.4em}a:focus{outline:1px dotted invert}a{text-decoration:none}ol,ul{list-style:none}blockquote:before,blockquote:after,q:before,q:after{float:left}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}.left{float:left}img.left{float:left;margin-right:10px;margin-bottom:10px}.right{float:right}.clear{clear:both}.center{text-align:center;margin:0 auto;display:block}@font-face{font-family:'ArialRegular';src:url('font/arial-webfont.eot');src:url('font/arial-webfont.eot?#iefix') format('embedded-opentype'),url('font/arial-webfont.woff') format('woff'),url('font/arial-webfont.ttf') format('truetype'),url('font/arial-webfont.svg#ArialRegular') format('svg');font-weight:normal;font-style:normal}body{font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#4e4e4e;}a{color:#000}a:hover{text-decoration:none}p{padding:5px 0;line-height:18px}.clear{clear:both}.fullBg{position:fixed;top:0;left:0;overflow:hidden}#maincontent{position:fixed;top:0;left:0;z-index:50;width:100%;overflow-y:auto;overflow-x:hidden;height:100%}#box{margin:80px auto 0 auto;width:450px;background-color:white;padding:45px 20px 10px 20px;position:relative;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}input#email{width:250px;height:30px;color:#666;border:1px solid #ccc;font-size:14px;padding:0;padding-left:15px;font-family:"Arial",tahoma;font-weight:lighter;border-radius:0}input#subscribe-btn{height:32px;width:120px;background:url('images/subscribe-btn.png') center;opacity:1;border-radius:0;border:0;font-size:16px;color:#FFF;font-family:"ArialRegular",tahoma;font-weight:normal;font-style:normal;cursor:pointer}input#subscribe-btn:hover{background:url('images/subscribe-btn-hover.png') center}.heading{font-family:'Helvetica',Arial;font-size:22px;font-weight:bold;font-style:normal;color:black;line-height:30px;margin-top:15px}.details{font-family:'Helvetica',Arial;font-size:16px;font-weight:normal;font-style:normal;color:black;margin-top:15px}.accesslinks{font-family:'ArialRegular';font-size:14px;font-weight:normal;font-style:normal;line-height:30px;color:white;margin-top:30px}.accesslinks a{color:white}.accesslinks a:hover{color:white;border-bottom:1px solid #ccc}.accesslinks span{font-size:15px}#socialmedia{margin:3px auto 0 auto;width:492px;height:34px;padding:0;position:relative;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}#socialmedia a{float:right}#socialmedia .facebook{width:173px;height:34px;background:transparent url('images/Button-Facebook.png') 0 0 repeat;display:block;text-indent:-9999px;margin-left:2px}#socialmedia .twitter{width:173px;height:34px;background:transparent url('images/Button-Twitter.png') 0 0 repeat;display:block;text-indent:-9999px}#footer{font-family:'ArialRegular';font-weight:normal;font-style:normal;margin:20px auto 0 auto;width:492px;height:34px;padding:0;position:relative;text-align:center;color:white}#alertmsg{font-family:'ArialRegular',Arial,Helvetica,sans-serif;font-size:125%;font-weight:bold;overflow:hidden;width:100%;text-align:center;position:fixed;top:0;left:0;background-color:#fff;height:40px;color:black;font:20px/40px arial,sans-serif;display:none;z-index:9999}#box .postdetails{margin-top:3px;line-height:22px;margin-top:3px;font-size:1.1em}#box .postdetails,#box .postshare{font-family:'Helvetica',Arial,sans-serif;font-size:15px;font-weight:normal;font-style:normal;color:black;line-height:22px}.facebooklike{float:left;margin-right:10px;margin-left:147px}.twittershare{float:left;margin-top:2px}#box .postemailbox{display:none}.titles{font-family:'ArialRegular',Arial,Helvetica,sans-serif;font-size:17px;font-weight:normal;font-style:normal;color:white;line-height:22px}.blank{height:3px}.lauchnow{position:Relative;left:145px}.leftalgin{text-align:left}.signup-facebookbtn{background:transparent url('images/facebook-connect.png') 0 0 repeat;width:89px;height:21px;display:block;text-indent:-9999px;float:left;margin-right:10px}.signup-gmailbtn{background:transparent url('images/btn_gmail_connect.png') 0 0 repeat;width:89px;height:21px;display:block;text-indent:-9999px;float:left}.{width:200px}.sizInpufx{width:200px;height:32px;color:#666;border:0;font-size:14px;padding:0;padding-left:15px;font-family:"Arial",tahoma;font-weight:lighter;border-radius:0}.signin{position:Relative;left:94px}.underline{border-bottom:1px solid #ccc}.applogo{margin-top:30px;background:transparent url('images/poweredbylaunchitnow.jpg') 0 0 repeat;width:100px;height:26px;display:block;margin-bottom:12px;float:right}.detailsfront{line-height:22px;margin-top:3px;font-size:1.1em}#background{width:100%;top:0;left:0;z-index:100;height:100%}@media screen and (max-width:479px){#box{margin:0 auto 0 auto;width:85%;background-color:white;padding:20px 20px 10px 20px;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.applogo{margin-top:16px;margin-bottom:3px}.details{font-family:'Helvetica',Arial;font-size:12px;font-weight:normal;font-style:normal;color:black;margin-top:15px}input#email{width:180px !important;font-size:12px}#socialmedia{margin:3px auto 0 auto;width:351px;height:34px;padding:0;position:relative;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;margin-top:16px}input#subscribe-btn{width:100px !important}#footer{font-family:'ArialRegular';font-weight:normal;font-style:normal;margin:20px auto 0 auto;width:80%;height:34px;padding:0;position:relative;text-align:center;color:white}#alertmsg{font-size:15px;border-bottom:1px solid #f0f0f0}}@media only screen and (min-device-width :320px) and (max-device-width :568px) and (orientation :portrait){input#email{width:160px !important;font-size:12px}#socialmedia .facebook{background:transparent url('images/Button-Facebook.png') 0 0 no-repeat;background-size:80%;position:relative;left:-10px}#socialmedia .twitter{background:transparent url('images/Button-Twitter.png') 20px 0 no-repeat;background-size:80%}#footer{margin-top:0}}@media only screen and (min-device-width :320px) and (max-device-width :568px) and (orientation :landscape){#box{margin:0 auto 0 auto}}
+body {background:#333; }
+html {background: #333;}
+#launchanimation {
+	position: absolute;
+	width: 400px;
+	height: 300px;
+	top: 50%;
+	left: 50%;
+	margin: -150px 0 0 -200px;
+	text-align: center;
+}
 
-\f0\fs24 \cf0 @charset "utf-8";html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,input\{margin:0;padding:0;border:0;outline:0;font-size:100%\}body\{line-height:1.4em\}a:focus\{outline:1px dotted invert\}a\{text-decoration:none\}ol,ul\{list-style:none\}blockquote:before,blockquote:after,q:before,q:after\{float:left\}:focus\{outline:0\}ins\{text-decoration:none\}del\{text-decoration:line-through\}table\{border-collapse:collapse;border-spacing:0\}.left\{float:left\}img.left\{float:left;margin-right:10px;margin-bottom:10px\}.right\{float:right\}.clear\{clear:both\}.center\{text-align:center;margin:0 auto;display:block\}@font-face\{font-family:'ArialRegular';src:url('font/arial-webfont.eot');src:url('font/arial-webfont.eot?#iefix') format('embedded-opentype'),url('font/arial-webfont.woff') format('woff'),url('font/arial-webfont.ttf') format('truetype'),url('font/arial-webfont.svg#ArialRegular') format('svg');font-weight:normal;font-style:normal\}body\{font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#4e4e4e;\}a\{color:#000\}a:hover\{text-decoration:none\}p\{padding:5px 0;line-height:18px\}.clear\{clear:both\}.fullBg\{position:fixed;top:0;left:0;overflow:hidden\}#maincontent\{position:fixed;top:0;left:0;z-index:50;width:100%;overflow-y:auto;overflow-x:hidden;height:100%\}#box\{margin:80px auto 0 auto;width:450px;background-color:white;padding:45px 20px 10px 20px;position:relative;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px\}input#email\{width:250px;height:30px;color:#666;border:1px solid #ccc;font-size:14px;padding:0;padding-left:15px;font-family:"Arial",tahoma;font-weight:lighter;border-radius:0\}input#subscribe-btn\{height:32px;width:120px;background:url('images/subscribe-btn.png') center;opacity:1;border-radius:0;border:0;font-size:16px;color:#FFF;font-family:"ArialRegular",tahoma;font-weight:normal;font-style:normal;cursor:pointer\}input#subscribe-btn:hover\{background:url('images/subscribe-btn-hover.png') center\}.heading\{font-family:'Helvetica',Arial;font-size:22px;font-weight:bold;font-style:normal;color:black;line-height:30px;margin-top:15px\}.details\{font-family:'Helvetica',Arial;font-size:16px;font-weight:normal;font-style:normal;color:black;margin-top:15px\}.accesslinks\{font-family:'ArialRegular';font-size:14px;font-weight:normal;font-style:normal;line-height:30px;color:white;margin-top:30px\}.accesslinks a\{color:white\}.accesslinks a:hover\{color:white;border-bottom:1px solid #ccc\}.accesslinks span\{font-size:15px\}#socialmedia\{margin:3px auto 0 auto;width:492px;height:34px;padding:0;position:relative;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px\}#socialmedia a\{float:right\}#socialmedia .facebook\{width:173px;height:34px;background:transparent url('images/Button-Facebook.png') 0 0 repeat;display:block;text-indent:-9999px;margin-left:2px\}#socialmedia .twitter\{width:173px;height:34px;background:transparent url('images/Button-Twitter.png') 0 0 repeat;display:block;text-indent:-9999px\}#footer\{font-family:'ArialRegular';font-weight:normal;font-style:normal;margin:20px auto 0 auto;width:492px;height:34px;padding:0;position:relative;text-align:center;color:white\}#alertmsg\{font-family:'ArialRegular',Arial,Helvetica,sans-serif;font-size:125%;font-weight:bold;overflow:hidden;width:100%;text-align:center;position:fixed;top:0;left:0;background-color:#fff;height:40px;color:black;font:20px/40px arial,sans-serif;display:none;z-index:9999\}#box .postdetails\{margin-top:3px;line-height:22px;margin-top:3px;font-size:1.1em\}#box .postdetails,#box .postshare\{font-family:'Helvetica',Arial,sans-serif;font-size:15px;font-weight:normal;font-style:normal;color:black;line-height:22px\}.facebooklike\{float:left;margin-right:10px;margin-left:147px\}.twittershare\{float:left;margin-top:2px\}#box .postemailbox\{display:none\}.titles\{font-family:'ArialRegular',Arial,Helvetica,sans-serif;font-size:17px;font-weight:normal;font-style:normal;color:white;line-height:22px\}.blank\{height:3px\}.lauchnow\{position:Relative;left:145px\}.leftalgin\{text-align:left\}.signup-facebookbtn\{background:transparent url('images/facebook-connect.png') 0 0 repeat;width:89px;height:21px;display:block;text-indent:-9999px;float:left;margin-right:10px\}.signup-gmailbtn\{background:transparent url('images/btn_gmail_connect.png') 0 0 repeat;width:89px;height:21px;display:block;text-indent:-9999px;float:left\}.\{width:200px\}.sizInpufx\{width:200px;height:32px;color:#666;border:0;font-size:14px;padding:0;padding-left:15px;font-family:"Arial",tahoma;font-weight:lighter;border-radius:0\}.signin\{position:Relative;left:94px\}.underline\{border-bottom:1px solid #ccc\}.applogo\{margin-top:30px;background:transparent url('images/poweredbylaunchitnow.jpg') 0 0 repeat;width:100px;height:26px;display:block;margin-bottom:12px;float:right\}.detailsfront\{line-height:22px;margin-top:3px;font-size:1.1em\}#background\{width:100%;top:0;left:0;z-index:100;height:100%\}@media screen and (max-width:479px)\{#box\{margin:0 auto 0 auto;width:85%;background-color:white;padding:20px 20px 10px 20px;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0\}.applogo\{margin-top:16px;margin-bottom:3px\}.details\{font-family:'Helvetica',Arial;font-size:12px;font-weight:normal;font-style:normal;color:black;margin-top:15px\}input#email\{width:180px !important;font-size:12px\}#socialmedia\{margin:3px auto 0 auto;width:351px;height:34px;padding:0;position:relative;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;margin-top:16px\}input#subscribe-btn\{width:100px !important\}#footer\{font-family:'ArialRegular';font-weight:normal;font-style:normal;margin:20px auto 0 auto;width:80%;height:34px;padding:0;position:relative;text-align:center;color:white\}#alertmsg\{font-size:15px;border-bottom:1px solid #f0f0f0\}\}@media only screen and (min-device-width :320px) and (max-device-width :568px) and (orientation :portrait)\{input#email\{width:160px !important;font-size:12px\}#socialmedia .facebook\{background:transparent url('images/Button-Facebook.png') 0 0 no-repeat;background-size:80%;position:relative;left:-10px\}#socialmedia .twitter\{background:transparent url('images/Button-Twitter.png') 20px 0 no-repeat;background-size:80%\}#footer\{margin-top:0\}\}@media only screen and (min-device-width :320px) and (max-device-width :568px) and (orientation :landscape)\{#box\{margin:0 auto 0 auto\}\}\
-body \{background:#333; \}\
-html \{background: #333;\}\
-#launchanimation \{\
-	position: absolute;\
-	width: 400px;\
-	height: 300px;\
-	top: 50%;\
-	left: 50%;\
-	margin: -150px 0 0 -200px;\
-	text-align: center;\
-\}\
-\
-#launchanimation span\
-\{\
-	display: inline-block;\
-	width: 10px;\
-	height: 10px;\
-	margin: 145px 3px 0;\
-	background: rgba(255,255,255,0.25);\
-	border-radius: 50%;\
-	transform: translateY(0);\
-	-moz-transform: translateY(0);\
-	-webkit-transform: translateY(0);\
-	\
-	animation: wave 2s infinite ease-in-out;\
-	-moz-animation: wave 2s infinite ease-in-out;\
-	-webkit-animation: wave 2s infinite ease-in-out;\
-\}\
-\
-@keyframes wave\
-\{\
-	0%, 60%, 100%\
-	\{\
-		background: rgba(255,255,255,0.25);\
-		transform: translateY(0);\
-		-moz-transform: translateY(0);\
-	\}\
-	\
-	20%\
-	\{\
-		background: rgba(255,255,255,0.75);\
-		transform: translateY(13px);\
-		-moz-transform: translateY(13px);\
-	\}\
-	\
-	40%\
-	\{\
-		background: rgba(255,255,255,0.75);\
-		transform: translateY(-13px);\
-		-moz-transform: translateY(-13px);\
-	\}\
-	\
-\}\
-\
-@-webkit-keyframes wave\
-\{\
-	0%, 60%, 100%\
-	\{\
-		background: rgba(255,255,255,0.25);\
-		transform: translateY(0);\
-		-webkit-transform: translateY(0);		\
-	\}\
-	\
-	20%\
-	\{\
-		background: rgba(255,255,255,0.75);\
-		transform: translateY(13px);\
-		-webkit-transform: translateY(13px);\
-	\}\
-	\
-	40%\
-	\{\
-		background: rgba(255,255,255,0.75);\
-		transform: translateY(-13px);\
-		-webkit-transform: translateY(-13px);\
-	\}\
-\}\
-\
-\
-#launchanimation span:nth-child(1)\
-\{\
-	animation-delay: 0s;\
-	-moz-animation-delay: 0s;\
-	-webkit-animation-delay: 0s;\
-\}\
-\
-#launchanimation span:nth-child(2)\
-\{\
-	animation-delay: 0.1s;\
-	-moz-animation-delay: 0.1s;\
-	-webkit-animation-delay: 0.1s;\
-\}\
-\
-#launchanimation span:nth-child(3)\
-\{\
-	animation-delay: 0.2s;\
-	-moz-animation-delay: 0.2s;\
-	-webkit-animation-delay: 0.2s;\
-\}\
-\
-#launchanimation span:nth-child(4)\
-\{\
-	animation-delay: 0.3s;\
-	-moz-animation-delay: 0.3s;\
-	-webkit-animation-delay: 0.3s;\
-\}\
-\
-#launchanimation span:nth-child(5)\
-\{\
-	animation-delay: 0.4s;\
-	-moz-animation-delay: 0.4s;\
-	-webkit-animation-delay: 0.4s;\
-\}\
+#launchanimation span
+{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin: 145px 3px 0;
+	background: rgba(255,255,255,0.25);
+	border-radius: 50%;
+	transform: translateY(0);
+	-moz-transform: translateY(0);
+	-webkit-transform: translateY(0);
+	
+	animation: wave 2s infinite ease-in-out;
+	-moz-animation: wave 2s infinite ease-in-out;
+	-webkit-animation: wave 2s infinite ease-in-out;
+}
+
+@keyframes wave
+{
+	0%, 60%, 100%
+	{
+		background: rgba(255,255,255,0.25);
+		transform: translateY(0);
+		-moz-transform: translateY(0);
+	}
+	
+	20%
+	{
+		background: rgba(255,255,255,0.75);
+		transform: translateY(13px);
+		-moz-transform: translateY(13px);
+	}
+	
+	40%
+	{
+		background: rgba(255,255,255,0.75);
+		transform: translateY(-13px);
+		-moz-transform: translateY(-13px);
+	}
+	
+}
+
+@-webkit-keyframes wave
+{
+	0%, 60%, 100%
+	{
+		background: rgba(255,255,255,0.25);
+		transform: translateY(0);
+		-webkit-transform: translateY(0);		
+	}
+	
+	20%
+	{
+		background: rgba(255,255,255,0.75);
+		transform: translateY(13px);
+		-webkit-transform: translateY(13px);
+	}
+	
+	40%
+	{
+		background: rgba(255,255,255,0.75);
+		transform: translateY(-13px);
+		-webkit-transform: translateY(-13px);
+	}
+}
+
+
+#launchanimation span:nth-child(1)
+{
+	animation-delay: 0s;
+	-moz-animation-delay: 0s;
+	-webkit-animation-delay: 0s;
+}
+
+#launchanimation span:nth-child(2)
+{
+	animation-delay: 0.1s;
+	-moz-animation-delay: 0.1s;
+	-webkit-animation-delay: 0.1s;
+}
+
+#launchanimation span:nth-child(3)
+{
+	animation-delay: 0.2s;
+	-moz-animation-delay: 0.2s;
+	-webkit-animation-delay: 0.2s;
+}
+
+#launchanimation span:nth-child(4)
+{
+	animation-delay: 0.3s;
+	-moz-animation-delay: 0.3s;
+	-webkit-animation-delay: 0.3s;
+}
+
+#launchanimation span:nth-child(5)
+{
+	animation-delay: 0.4s;
+	-moz-animation-delay: 0.4s;
+	-webkit-animation-delay: 0.4s;
 }
